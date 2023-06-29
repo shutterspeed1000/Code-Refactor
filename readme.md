@@ -33,5 +33,3 @@ After updates:
 ![screencapture-shutterspeed1000-github-io-Mod1Challenge-2023-06-29-11_49_25](https://github.com/shutterspeed1000/Mod1Challenge/assets/16305813/8f20bb02-1e1a-474b-be3e-89e896ce5cc9)
 
 
-
-
