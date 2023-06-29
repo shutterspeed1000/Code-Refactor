@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Nav Bar */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +54,8 @@ p {
     background-position: center;
 }
 
+/* Services Section */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,7 +71,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
 
 .services {
     margin-bottom: 20px;
@@ -88,6 +91,8 @@ p {
     font-size: 36px;
 }
 
+
+/* Benefit Section */
 
 .benefits {
     margin-right: 20px;
@@ -117,6 +122,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer Section */
 
 .footer {
     padding: 30px;
