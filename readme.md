@@ -29,8 +29,8 @@ After updates:
 [https://shutterspeed1000.github.io/Mod1Challenge/](url)
 
 ## Screenshot of completed page
-https://github.com/shutterspeed1000/workfiles/blob/main/docs/01-html-css-git-homework-demo.png?raw=true
 
+![01-html-css-git-homework-demo](https://github.com/shutterspeed1000/Mod1Challenge/assets/16305813/c4dc9648-6c1b-436f-8076-7c4c8686d34a)
 
 
 
