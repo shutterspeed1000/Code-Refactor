@@ -28,6 +28,6 @@ After updates:
 ## Deployed Application 
 [https://shutterspeed1000.github.io/Mod1Challenge/](url)
 
+## Screenshot/View of Completed updates
 
-
-
+![Uploading screencapture-shutterspeed1000-github-io-Mod1Challenge-2023-06-29-11_49_25.png…]()
