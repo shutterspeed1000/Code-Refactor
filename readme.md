@@ -28,6 +28,9 @@ After updates:
 ## Deployed Application 
 [https://shutterspeed1000.github.io/Mod1Challenge/](url)
 
+## Screenshot of completed page
+https://github.com/shutterspeed1000/workfiles/blob/main/docs/01-html-css-git-homework-demo.png?raw=true
+
 
 
 
