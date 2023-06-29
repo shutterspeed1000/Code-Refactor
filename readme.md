@@ -30,4 +30,5 @@ After updates:
 
 ## Screenshot/View of Completed updates
 
-![Uploading screencapture-shutterspeed1000-github-io-Mod1Challenge-2023-06-29-11_49_25.png…]()
+![screencapture-shutterspeed1000-github-io-Mod1Challenge-2023-06-29-11_49_25](https://github.com/shutterspeed1000/Mod1Challenge/assets/16305813/6e542a43-0cac-4724-bfb2-76429f883514)
+
